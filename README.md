@@ -1,8 +1,6 @@
 # middleman-rss_items
 [![Gem Version](https://badge.fury.io/rb/middleman-rss_items.svg)](https://badge.fury.io/rb/middleman-rss_items)
-[![Circle CI](https://circleci.com/gh/seibii/middleman-rss_items.svg?style=shield)](https://circleci.com/gh/seibii/middleman-rss_items)
 [![Code Climate](https://codeclimate.com/github/seibii/middleman-rss_items/badges/gpa.svg)](https://codeclimate.com/github/seibii/middleman-rss_items)
-[![codecov](https://codecov.io/gh/seibii/middleman-rss_items/branch/master/graph/badge.svg)](https://codecov.io/gh/seibii/middleman-rss_items)
 [![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/seibii/middleman-rss_items.svg)](https://libraries.io/github/seibii/middleman-rss_items)
 ![](http://ruby-gem-downloads-badge.herokuapp.com/middleman-rss_items?type=total)
 ![GitHub](https://img.shields.io/github/license/seibii/middleman-rss_items.svg)
