@@ -162,7 +162,7 @@ GEM
       thread_safe (~> 0.1)
     uglifier (4.2.0)
       execjs (>= 0.3.0, < 3)
-    yard (0.9.25)
+    yard (0.9.26)
 
 PLATFORMS
   ruby
