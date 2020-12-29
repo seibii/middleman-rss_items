@@ -22,7 +22,7 @@ GEM
       ffi (~> 1.9)
       rspec-expectations (~> 3.4)
       thor (~> 1.0)
-    backports (3.18.2)
+    backports (3.19.0)
     builder (3.2.4)
     childprocess (4.0.0)
     concurrent-ruby (1.1.7)
