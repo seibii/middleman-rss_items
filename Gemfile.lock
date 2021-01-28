@@ -21,7 +21,7 @@ GEM
       cucumber (>= 2.4, < 6.0)
       rspec-expectations (~> 3.4)
       thor (~> 1.0)
-    backports (3.20.1)
+    backports (3.20.2)
     builder (3.2.4)
     childprocess (4.0.0)
     concurrent-ruby (1.1.8)
