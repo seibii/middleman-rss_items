@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    middleman-rss_items (0.0.1)
+    middleman-rss_items (0.0.2)
       feedjira
       middleman-core (>= 4.3.5)
 
@@ -63,7 +63,7 @@ GEM
     dotenv (2.7.6)
     erubis (2.7.0)
     execjs (2.8.1)
-    fastimage (2.2.3)
+    fastimage (2.2.4)
     feedjira (3.1.2)
       loofah (>= 2.3.1)
       sax-machine (>= 1.0)
@@ -113,7 +113,7 @@ GEM
     mini_portile2 (2.5.3)
     minitest (5.14.4)
     multi_test (0.1.2)
-    nokogiri (1.11.6)
+    nokogiri (1.11.7)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     oj (3.11.5)
@@ -182,4 +182,4 @@ DEPENDENCIES
   yard
 
 BUNDLED WITH
-   1.17.2
+   1.17.3
