@@ -23,7 +23,7 @@ GEM
       thor (~> 1.0)
     backports (3.21.0)
     builder (3.2.4)
-    childprocess (4.0.0)
+    childprocess (4.1.0)
     concurrent-ruby (1.1.8)
     contracts (0.16.1)
     crass (1.0.6)
