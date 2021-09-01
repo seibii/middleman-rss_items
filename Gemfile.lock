@@ -64,7 +64,7 @@ GEM
     dotenv (2.7.6)
     erubis (2.7.0)
     execjs (2.8.1)
-    fastimage (2.2.4)
+    fastimage (2.2.5)
     feedjira (3.2.0)
       loofah (>= 2.3.1)
       sax-machine (>= 1.0)
