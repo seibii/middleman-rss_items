@@ -53,7 +53,7 @@ GEM
       cucumber-messages (~> 17.0, >= 17.0.1)
     cucumber-html-formatter (16.0.1)
       cucumber-messages (~> 17.0, >= 17.0.1)
-    cucumber-messages (17.0.1)
+    cucumber-messages (17.1.1)
     cucumber-tag-expressions (3.0.1)
     cucumber-wire (6.1.1)
       cucumber-core (~> 10.0, >= 10.0.1)
