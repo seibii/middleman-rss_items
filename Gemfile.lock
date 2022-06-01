@@ -154,7 +154,7 @@ GEM
     servolux (0.13.0)
     stream (0.5.3)
       generator
-    stringio (3.0.1)
+    stringio (3.0.2)
     sys-uname (1.2.2)
       ffi (~> 1.1)
     thor (1.2.1)
